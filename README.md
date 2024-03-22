@@ -1,9 +1,7 @@
-# QA and Business Analyst
+# About me 👋
+In my six years of experience as a Quality Assurance Lead and Business Analyst in tech companies, I regularly oversaw troubleshooting and ensured product quality and functionality according to project requirements. I have handled a number of projects including a mobile app (Android), migration, web tools, POS systems, and Android apps
 
-### Education
-BSBA Major in Marketing Management
-
-### Work Experience
+### Work Experience 💻
 - Action.able inc | June 2022 - Present
   
   **Project manager and QA Lead**
@@ -37,8 +35,13 @@ BSBA Major in Marketing Management
   - Run Workshop and Work with other teams for Testing of the software
   - Plan and prioritize product feature backlog and development for the product
    - Document, organize, and clarify business needs and review/produce specifications for change
-
-  
+ 
+### Tools 🧰
+- [Trello](https://trello.com/) [Kanboard](https://kanboard.org/) [Basecamp](https://basecamp.com/) [MS Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) - Project Management
+- [Miro](https://miro.com/) [Lucidchart](https://www.lucidchart.com/) [Flow Chart Maker](https://app.diagrams.net/) - Flowchart, Use Case Diagram
+- [Figma](https://www.figma.com/) [Canva](https://www.canva.com/) - UI 
+- [Selenium](https://www.selenium.dev/) [AzureDevops](https://azuredevopslabs.com/) [Clickup](https://clickup.com/) - QA
+- [Github](https://github.com/) 
 
 ### Projects
 *QA and Business Analyst*
