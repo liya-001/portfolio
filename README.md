@@ -37,7 +37,7 @@ In my six years of experience as a Quality Assurance Lead and Business Analyst i
    - Document, organize, and clarify business needs and review/produce specifications for change
  
 ### Tools 🧰
-- [Trello](https://trello.com/) [Kanboard](https://kanboard.org/) [Basecamp](https://basecamp.com/) [MS Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) - Project Management
+- [Trello](https://trello.com/) [Kanboard](https://kanboard.org/) [Basecamp](https://basecamp.com/) [MS Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) [Project libre](https://www.projectlibre.com/) - Project Management
 - [Miro](https://miro.com/) [Lucidchart](https://www.lucidchart.com/) [Flow Chart Maker](https://app.diagrams.net/) - Flowchart, Use Case Diagram
 - [Figma](https://www.figma.com/) [Canva](https://www.canva.com/) - UI 
 - [Selenium](https://www.selenium.dev/) [AzureDevops](https://azuredevopslabs.com/) [Clickup](https://clickup.com/) - QA
